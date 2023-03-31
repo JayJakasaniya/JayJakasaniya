@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JayJakasaniya
-- 👀 I’m interested in Web Development/Cyber Security 
+- 👀 I’m interested in Web Development/Ui/Ux Designer 
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Email
 - 📫 How to reach me E-mail: jay382001@gmail.com
