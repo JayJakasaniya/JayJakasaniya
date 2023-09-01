@@ -115,7 +115,7 @@
 ###
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fmishmanners%2Fhow-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66&psig=AOvVaw1zTe8BsV5i2CMzF5zLCTWY&ust=1693628711762000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCzgODIiIEDFQAAAAAdAAAAABAE" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=JayJakasaniya&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
