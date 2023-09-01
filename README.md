@@ -120,10 +120,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JayJakasaniya/JayJakasaniya/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h6 align="center">Total visitor till now....!!</h6>
 
 ###
